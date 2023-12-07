@@ -51,4 +51,4 @@
 ## Desired machine learning task: Regression. This specific dataset was used in the model_dev_2 folder. Repeat the same procedures applied to the dataset 1 but done in the model_dev_2 directory.
 
 
-## Part 3 Issues: I think that the datasets were too big because every time i tried to push it to github i got an error stating that " ". So I took screenshots of all my work and uploaded them in a folder that I put in github. If you need screenshots of anything else, please let me know. Also, an image of the github upload error is in the folder as well. 
+## Part 3 Issues: I think that the datasets were too big because every time i tried to push it to github i got an error stating that "fatal: the remote end hung up unexpectedly". So I took screenshots of all my work and uploaded them in a folder that I put in github. If you need screenshots of anything else, please let me know. Also, an image of the github upload error is in the folder as well. 
